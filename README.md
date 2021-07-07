@@ -1,4 +1,4 @@
-﻿# -license-plate-recogniser
+﻿# -license-plate-recognizer
  Recognizes bounding rectangle and Number of license plate from images and video of car.
 
 ## set up
